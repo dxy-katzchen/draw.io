@@ -248,6 +248,18 @@
         <mxCell id="qg8MmeF7wyBkdZ5XozIb-54" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="670" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="qg8MmeF7wyBkdZ5XozIb-96" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-250" width="40" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qg8MmeF7wyBkdZ5XozIb-97" value="DevOps Engineer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-205" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qg8MmeF7wyBkdZ5XozIb-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.491;entryY=1.138;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qg8MmeF7wyBkdZ5XozIb-93" target="qg8MmeF7wyBkdZ5XozIb-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="sourcePoint" />
+            <mxPoint x="740" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
