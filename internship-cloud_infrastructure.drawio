@@ -236,6 +236,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Oq4xvx31ndR5QJnR-ndJ-121" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1345" width="61.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oq4xvx31ndR5QJnR-ndJ-122" value="private-rtb2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="817.79" y="1410" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
