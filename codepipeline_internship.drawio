@@ -64,6 +64,12 @@
         <mxCell id="q1qPbCtctFFIQ05qMlMy-17" value="buildspec.yml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="265" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="q1qPbCtctFFIQ05qMlMy-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="610" y="395.5" width="36.54" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q1qPbCtctFFIQ05qMlMy-19" value="appspec.yml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
