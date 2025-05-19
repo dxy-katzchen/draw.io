@@ -153,13 +153,19 @@
           <mxGeometry x="120.5" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-36" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1240" width="300" height="250" as="geometry" />
+          <mxGeometry x="380" y="1240" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-37" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1DA3A5;" parent="5uDzMRbxscLC0Sf3smg1-36" vertex="1">
           <mxGeometry x="102" y="-1" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-38" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="5uDzMRbxscLC0Sf3smg1-36" vertex="1">
-          <mxGeometry x="44.5" y="40" width="211" height="170" as="geometry" />
+          <mxGeometry x="170" y="40" width="211" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDzMRbxscLC0Sf3smg1-45" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_instance;" parent="5uDzMRbxscLC0Sf3smg1-36" vertex="1">
+          <mxGeometry x="245.5" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uDzMRbxscLC0Sf3smg1-58" value="backup RDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5uDzMRbxscLC0Sf3smg1-36" vertex="1">
+          <mxGeometry x="230.5" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.51;exitY=0.897;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="5uDzMRbxscLC0Sf3smg1-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -181,12 +187,6 @@
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-44" value="NAT gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" parent="1" vertex="1">
           <mxGeometry x="491.39" y="650" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5uDzMRbxscLC0Sf3smg1-45" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_instance;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1320" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5uDzMRbxscLC0Sf3smg1-58" value="backup RDS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="1380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5uDzMRbxscLC0Sf3smg1-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5uDzMRbxscLC0Sf3smg1-32" target="lHyy_BqDiXbWExlvF2zH-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
