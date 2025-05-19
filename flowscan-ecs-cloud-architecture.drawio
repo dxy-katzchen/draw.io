@@ -219,7 +219,7 @@
           <mxGeometry x="-473" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lHyy_BqDiXbWExlvF2zH-13" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="-50" width="55" height="90" as="geometry" />
+          <mxGeometry x="-600" y="1190" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lHyy_BqDiXbWExlvF2zH-24" value="Amazon ECR" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecr;" vertex="1" parent="1">
           <mxGeometry x="-590" y="830" width="60" height="90" as="geometry" />
@@ -312,6 +312,16 @@
             <Array as="points">
               <mxPoint x="270" y="790" />
               <mxPoint x="488" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHyy_BqDiXbWExlvF2zH-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lHyy_BqDiXbWExlvF2zH-13" target="lHyy_BqDiXbWExlvF2zH-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="1000" as="sourcePoint" />
+            <mxPoint x="-90" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-400" y="1240" />
+              <mxPoint x="-400" y="1093" />
             </Array>
           </mxGeometry>
         </mxCell>
